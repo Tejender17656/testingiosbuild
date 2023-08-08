@@ -1,7 +1,7 @@
 workflows:
   my-workflo0:
     instance_type: mac_pro
-workflows:
+
   my-workflow:
     scripts:
       - name: say hello
